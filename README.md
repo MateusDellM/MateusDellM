@@ -6,7 +6,7 @@
 </h1>
 
 <p align='center'>
-  Front-End Developer
+  
 </p>
 
 ### 🍕 About me:
