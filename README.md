@@ -13,7 +13,7 @@
 
 <p>
   <em>
-   I'm 23 years old, I'm from Sorocaba/SP and I'm trying to make a living as a front-end developer.
+   I'm 23 years old, I'm from Sorocaba/SP.
   </em>
 </p>
   
